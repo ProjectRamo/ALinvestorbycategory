@@ -1,0 +1,12 @@
+select {
+    border:1px solid #ccc;
+    vertical-align:top;
+    height:500px;
+    float: left; 
+    padding: 5px;'
+}
+input, select{
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
